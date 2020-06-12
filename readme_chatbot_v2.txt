@@ -47,7 +47,7 @@ trainer.train(convo)
 #print(answer)
 
 #Code for GUI
-main=Tk()                                                                 tk class ka object and custimize size
+main=Tk()                                                                 
 main.geometry("500x650")
 main.title("BOT")
 
@@ -68,7 +68,7 @@ def takequery():
             print("NOt Recognized")
     
 def ask_from_bot():
- query=textF.get()                                                        right and assign t this variable name query  represent in prper format
+ query=textF.get()                                                       
  answer_from_bot= bot.get_response(query)                                 
  msgs.insert(END,"You:"+ query)                                          
  msgs.insert(END,"bot:"+str(answer_from_bot))
@@ -87,7 +87,7 @@ msgs.pack(side=LEFT,fill=BOTH,pady=10)
 
 frame.pack()
 
-#Creating text field.                                                        where we write the or ask the question
+#Creating text field.                                                       
 
 textF=Entry(main,font=("Verdana",20))
 
