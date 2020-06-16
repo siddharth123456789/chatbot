@@ -1,0 +1,25 @@
+Hd master Key
+file://mum1ntap01prd01/highly_automated_driving/hd_maps/HD%20MasterKey%20Tool/HD%20MasterKey%20Tool%20(HDM%20Tool)/HD%20MasterKey%20Tool.html.
+
+k point link
+https://here.kpoint.com/app/api/v2/auth/login?redirect_uri=/app/login&target_uri=L2FwcC9ob21l.
+
+k point video
+https://here.kpoint.com/app/videos/list.
+
+accessor placement scenario
+https://confluence.in.here.com/pages/viewpage.action?pageId=552120528#123-1955536972.
+
+Accessor placement criteria
+HAD or junc??.
+
+Junction
+Please code as per HAD spec in case of gore point and for lane change  it is 15m Please go through work instruction https://confluence.in.here.com/pages/viewpage.action?spaceKey=RCPDS&title=Junction+Coding+Workflow+Work+Instruction.
+
+
+Bearing
+Link: https://bearing.ad.here.com/niku/nu#action:homeActionId.
+
+
+Confluence
+Lets solve any doubt you have .https://confluence.in.here.com/display/RCPDS/Lane+Model.
